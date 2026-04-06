@@ -19,9 +19,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-
-
-
 **Tool**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
@@ -31,5 +28,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
+**Portfolio**
+<br/>
+[https://www.notion.so/cd53dce620b34dbbb7625acebaa9939e?pvs=4](https://www.notion.so/cd53dce620b34dbbb7625acebaa9939e?pvs=4)
 
 </div>
