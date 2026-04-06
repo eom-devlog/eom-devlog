@@ -4,6 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Eom's%20GitHub&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Eom's%20Devlog&fontSize=50&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,2,2,5,30&height=200&text=Eom's%20GitHub&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=75&text=Eom's%20GitHub&fontSize=50&fontColor=ffffff)
 -->
 <!-- 포트폴리오
 **Portfolio**
@@ -11,7 +12,6 @@
 [https://www.notion.so/cd53dce620b34dbbb7625acebaa9939e?pvs=4](https://www.notion.so/cd53dce620b34dbbb7625acebaa9939e?pvs=4)
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=75&text=Eom's%20GitHub&fontSize=50&fontColor=ffffff)
 
 # 🙇‍♂️ Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
